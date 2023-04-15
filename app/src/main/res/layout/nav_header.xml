@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:id="@+id/header2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:visibility="invisible"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+        <EditText
+            android:id="@+id/value"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+
+
+        <TextView
+            android:id="@+id/name"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textStyle="bold|italic"
+            android:text="Name"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+        <TextView
+            android:id="@+id/email"
+            android:textColor="@android:color/white"
+            android:textStyle="bold|italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sk@gmail.com" />
+
+    </LinearLayout>
+</RelativeLayout>

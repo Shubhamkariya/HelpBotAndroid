@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167379196261",
+    "project_id": "enuff-e5ada",
+    "storage_bucket": "enuff-e5ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167379196261:android:79d0452e077068f2d8298c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167379196261-i4uigku23e841ca02dovcc3pa89b4ghr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1ef61953e38380cb94e40f5a5e152ee5df22a442"
+          }
+        },
+        {
+          "client_id": "167379196261-gk4gk53u3iclkq4hovoismt8rbof8df9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrjSvq9a88uhnhJD_KMZZFFSwsRsCflk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167379196261-gk4gk53u3iclkq4hovoismt8rbof8df9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

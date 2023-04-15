@@ -1,0 +1,47 @@
+com/example/myapplication/ProfileFragment.java
+ com.example.myapplication.ProfileFragment
+ com.example.myapplication.ProfileFragment$1
+ com.example.myapplication.ProfileFragment$2
+com/example/myapplication/SplashScreen.java
+ com.example.myapplication.SplashScreen
+ com.example.myapplication.SplashScreen$1
+com/example/myapplication/Profile.java
+ com.example.myapplication.Profile
+com/example/myapplication/NavHeader.java
+ com.example.myapplication.NavHeader
+com/example/myapplication/UserData.java
+ com.example.myapplication.UserData
+com/example/myapplication/HomeFragment.java
+ com.example.myapplication.HomeFragment
+ com.example.myapplication.HomeFragment$1
+com/example/myapplication/Datas.java
+ com.example.myapplication.Datas
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/UserActivity.java
+ com.example.myapplication.UserActivity
+ com.example.myapplication.UserActivity$1
+com/example/myapplication/ResetActivity.java
+ com.example.myapplication.ResetActivity
+ com.example.myapplication.ResetActivity$1
+ com.example.myapplication.ResetActivity$1$1
+com/example/myapplication/GpsTracker.java
+ com.example.myapplication.GpsTracker
+ com.example.myapplication.GpsTracker$1
+ com.example.myapplication.GpsTracker$2
+com/example/myapplication/SignupFragment.java
+ com.example.myapplication.SignupFragment
+ com.example.myapplication.SignupFragment$1
+ com.example.myapplication.SignupFragment$1$1
+com/example/myapplication/LoginFragment.java
+ com.example.myapplication.LoginFragment
+ com.example.myapplication.LoginFragment$1
+ com.example.myapplication.LoginFragment$2
+ com.example.myapplication.LoginFragment$3
+ com.example.myapplication.LoginFragment$4
+ com.example.myapplication.LoginFragment$4$1
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+com/example/myapplication/Redirection.java
+ com.example.myapplication.Redirection

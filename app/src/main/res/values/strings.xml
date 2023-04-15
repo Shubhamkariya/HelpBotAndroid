@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CHATBOT</string>
+    <string name="name">  Email Id or Phone No</string>
+    <string name="pass">  Password</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Location From GPS</string>
+    <string name="str_tv_location">Current Location</string>
+
+
+
+    <string name="type">Types of abuse </string>
+    <string name="Physical_type">Physical Abuse - When someone intentionally abuses or harms or kid or young person, this is known as physical abuse. It might entail striking with your fists or other things. slapping, punching and misuse of precription drugs.</string>
+    <string name="Domestic_type">Domestic Abuse - Domestic violence is defined as aggressive behaviour between current or past intimate partners, in which one spouse attempts to assert authority and control over the other by instilling fear in the other. Abuse may take forms, including sexual, emotional, financial. </string>
+    <string name="Psychological_type">Psychological Abuse - Psychological abuse, often known as verbal or emotional abuse, occurs when an older person is subjected to the purposeful infliction of mental agony or the instillation of fear of violence or isolation. Cyber bullying, Failure to respect privacy.</string>
+    <string name="Discriminatory_type">Discriminatory Abuse - Discriminatory abuse, often known as verbal or emotional abuse, occurs when an older person is subjected to the purposeful infliction of mental agony or the instillation of a fear of violence, solitude criminal justice, religion and relief, race.</string>
+</resources>

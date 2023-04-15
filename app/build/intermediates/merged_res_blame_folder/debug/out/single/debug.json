@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_delete_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_btn_bg_selector.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_phone_android_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_phone_android_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_power_settings_new_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_favorite_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_favorite_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_rectangle2.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/rectangle2.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_user_item.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/user_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_list.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/list.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_perm_media_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_perm_media_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_roundedbutton.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/roundedbutton.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_main_chat.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_main_chat.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_person_black1_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_person_black1_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_text_fields_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_text_fields_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_pb_circular_determinative.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/pb_circular_determinative.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_person_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_send_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_edit_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_list_hover.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/list_hover.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_rectangle.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/anim_bganim.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/anim/bganim.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/font_font.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/font/font.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_check_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_check_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/anim_cloveranim.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/anim/cloveranim.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_message_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_btn_bg_selected_disable.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/btn_bg_selected_disable.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_vertical.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/vertical.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_message.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_message.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_call_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_favorite_border_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_favorite_border_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_email_white_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_email_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_reset.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_reset.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_share_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_local_shipping_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_local_shipping_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_rectangle3.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/rectangle3.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_photo_camera_black1_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_photo_camera_black1_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_redirection.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_redirection.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_keyboard_arrow_left_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable-mdpi_rectangle1.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable-mdpi/rectangle1.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_user.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_photo_camera_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_photo_camera_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_list_selector.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_fragment_signup.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout-v21_activity_main1.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout-v21/activity_main1.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_monetization_on_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_monetization_on_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xhdpi_images.jpeg.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xhdpi/images.jpeg"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_bar_layout.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/bar_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable-v24_bgapp.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable-v24/bgapp.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_list_pressed.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/list_pressed.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_keyboard_arrow_right_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_image_bg.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/image_bg.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_background_right.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/background_right.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_favorite_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_favorite_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_baseline_call_24.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_add_to_photos_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_add_to_photos_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_listitem_chat.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/listitem_chat.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_suggestion.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/suggestion.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_list_normal.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/list_normal.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_bellcon.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/bellcon.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_add_circle_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_add_circle_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_download.jpg.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/download.jpg"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/anim_fromottom.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/anim/fromottom.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_rounded_edittext.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/font_lobster.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/font/lobster.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_images.jpeg.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-anydpi-v26/images.jpeg"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable-v24_clover.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable-v24/clover.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_ic_email_black_24dp.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable-v24_fav.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable-v24/fav.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/layout_nav_header.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_background_left.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/background_left.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/menu_drawer_menu.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_round_corner.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/round_corner.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/drawable_biton_1.xml.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/drawable/biton_1.xml"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/build/intermediates/res/merged/debug/mipmap-hdpi_images.jpeg.flat",
+        "source": "/Users/shubhamkariya/Desktop/E_Nuff_android_code/app/src/main/res/mipmap-hdpi/images.jpeg"
+    }
+]

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E_Nuff_android_code.iml" filepath="$PROJECT_DIR$/.idea/modules/E_Nuff_android_code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E_Nuff_android_code.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E_Nuff_android_code.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChatBot_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/ChatBot_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatBot_Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatBot_Android.app.iml" />
     </modules>
   </component>
 </project>
